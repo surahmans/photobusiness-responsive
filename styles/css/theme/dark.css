@@ -1,3 +1,12 @@
 body {
     background-color:#000000;
 }
+.form-control--dark{
+    background-color: transparent;
+}
+
+.btn-dark {
+    background-color: transparent;
+    border: solid thin #CCC;
+    color: #CCC;
+}
