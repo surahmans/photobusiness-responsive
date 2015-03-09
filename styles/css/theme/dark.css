@@ -4,9 +4,15 @@ body {
 .form-control--dark{
     background-color: transparent;
 }
-
 .btn-dark {
     background-color: transparent;
-    border: solid thin #CCC;
+    border: solid 1px #CCC;
     color: #CCC;
+}
+.img-border--dark {
+    border: solid 1px #666666;
+    padding: 4px;
+}
+.hr-gray {
+    border: solid 1px #3B3B3B;
 }
