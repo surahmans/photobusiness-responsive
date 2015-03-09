@@ -1,4 +1,20 @@
-.thumbnails {
+.header--thumbnails {
     margin: 10px 0;
     width: 20%;
+}
+.service--thumbnails {
+    margin: 10px 0;
+    width: 25%;
+}
+.service--thumbnails--parent {
+    position: relative;
+    overflow: hidden;
+}
+.service--thumbnails__overlay {
+    width: 100%;
+    position: absolute;
+    -webkit-transform: translateY(-100%);
+    -moz-transform: translateY(-100%);
+    transition: ease 0.5s;
+    -webkit-transition: ease 0.5s;
 }

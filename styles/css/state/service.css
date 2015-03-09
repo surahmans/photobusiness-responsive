@@ -1,0 +1,6 @@
+.service--thumbnails--parent:hover > .service--thumbnails__overlay {
+    -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    transition: ease 0.5s;
+    -webkit-transition: ease 0.5s;
+}

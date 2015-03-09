@@ -16,3 +16,9 @@ body {
 .hr-gray {
     border: solid 1px #3B3B3B;
 }
+.service--thumbnails__overlay {
+    background-color: rgba(0,0,0,0.5);
+}
+.service--thumbnails__overlay a {
+    color: #5B5B5B;
+}

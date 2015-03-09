@@ -1,0 +1,10 @@
+.service--thumbnails__overlay {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 10px 0;
+    font-family: Georgia,"Times New Roman",Times,serif;
+}
+.service--thumbnails__overlay a{
+    text-decoration: none;
+}
