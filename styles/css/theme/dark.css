@@ -22,3 +22,15 @@ body {
 .service--thumbnails__overlay a {
     color: #5B5B5B;
 }
+p {
+    color: #CCC;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #CCC;
+}
+a {
+    color: #9C0;
+}
+a:hover {
+    color: #9C0;
+}
