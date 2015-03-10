@@ -34,3 +34,15 @@ a {
 a:hover {
     color: #9C0;
 }
+.darken{
+    color: #CCC;
+}
+.darken:hover {
+    color: #000;
+}
+.row__dark {
+    background-color: #1B1B1B;
+}
+.row__darken {
+    background-color: #2E2E2E;
+}
