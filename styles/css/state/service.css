@@ -4,3 +4,6 @@
     transition: ease 0.5s;
     -webkit-transition: ease 0.5s;
 }
+table tbody tr:hover > td{
+    color: #000;
+}
