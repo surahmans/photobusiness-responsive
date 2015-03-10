@@ -13,6 +13,9 @@ body {
     border: solid 1px #666666;
     padding: 4px;
 }
+.img-border--dark__center {
+    margin: 0 auto;
+}
 .img-border--dark__space {
     margin: 5px;
 }
@@ -43,16 +46,13 @@ a:hover {
 .darken:hover {
     color: #000;
 }
-.row__dark {
+.row__dark, .sidebar--dark {
     background-color: #1B1B1B;
 }
 .row__darken {
     background-color: #2E2E2E;
 }
-ul, ol {
-    color: #CCC;
-}
-th, td {
+ul, ol, th, td {
     color: #CCC;
 }
 tr {
