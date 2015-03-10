@@ -18,6 +18,16 @@
     transition: ease 0.5s;
     -webkit-transition: ease 0.5s;
 }
+@media all and (min-width: 300px) and (max-width: 800px){
+    .service--thumbnails__overlay {
+        font-size: 0.7em;
+    }
+}
+@media all and (min-width: 800px) and (max-width: 1000px){
+    .service--thumbnails__overlay {
+        font-size: 0.9em;
+    }
+}
 .photo-thumbnail {
     margin-bottom: 10px;
 }
