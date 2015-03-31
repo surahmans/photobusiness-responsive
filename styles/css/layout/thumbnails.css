@@ -31,3 +31,19 @@
 .photo-thumbnail {
     margin-bottom: 10px;
 }
+
+.product--thumbnails {
+    position: relative;
+}
+
+.product--thumbnails img{
+    margin: 0 auto;
+}
+
+.product--thumbnails__overlay {
+    width: 100%;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.50);
+    bottom: 10px;
+    padding: 5px 10px;
+}

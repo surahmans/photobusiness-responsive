@@ -59,3 +59,10 @@ tr {
     background-color: #222222;
 }
 
+.product--thumbnails__overlay h3 {
+    color: #6F1F77;
+}
+
+.product--thumbnails__overlay p {
+    color: #000;
+}

@@ -39,3 +39,7 @@ footer .author {
     font-size: 0.8em;
     font-weight: 300;
 }
+
+.product--thumbnails__overlay p {
+    font-size: 0.9em;
+}
