@@ -47,3 +47,11 @@
     bottom: 10px;
     padding: 5px 10px;
 }
+
+#gal1 img{
+    border:2px solid white;
+}
+
+.active img{
+    border:3px solid #b92c28 !important;
+}
