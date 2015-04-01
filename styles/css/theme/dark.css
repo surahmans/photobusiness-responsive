@@ -66,3 +66,16 @@ tr {
 .product--thumbnails__overlay p {
     color: #000;
 }
+
+.panel-body__color *{
+    color: #0f0f0f;
+}
+
+.panel-body__color th, .panel-body__color td{
+    color: #CCC;
+}
+
+.share {
+    color: #9C0;
+    font-size: 1.7em;
+}

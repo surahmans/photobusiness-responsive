@@ -43,3 +43,65 @@ footer .author {
 .product--thumbnails__overlay p {
     font-size: 0.9em;
 }
+
+#desc p {
+    font-size: 1.1em;
+}
+
+#desc h3, h4 {
+    border: none;
+}
+
+#desc span.old-price, span.info {
+    text-decoration: line-through;
+    color: darkgray;
+}
+
+#desc span.info {
+    text-transform: uppercase;
+}
+
+#desc .colours {
+    text-decoration: none;
+    display: inline;
+}
+
+#desc p span.indent {
+    width: 110px;
+    display: inline-block;
+}
+
+#desc .colours+img {
+    border: 1px solid rgba(102, 102, 102, 1);
+    border-collapse: collapse;
+    padding: 2px;
+}
+
+#desc select {
+    color: #0f0f0f;
+}
+
+#desc .indent {
+    -moz-tab-size: 11; /* Code for Firefox */
+    -o-tab-size: 11; /* Code for Opera 10.6-12.1 */
+    tab-size: 11;
+}
+
+.panel-body__color ul.listed{
+    list-style: none;
+    margin: 5px 0;
+    padding: 0;
+}
+
+.review h4{
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.review span {
+    font-size: 0.8em;
+}
+
+.review p {
+    margin-top: 10px;
+}
