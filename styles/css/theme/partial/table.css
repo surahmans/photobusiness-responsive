@@ -1,0 +1,296 @@
+.light-table--aqua.table {
+  background-color: #c0dfd9;
+}
+.light-table--aqua.table > thead > tr > th,
+.light-table--aqua.table > tbody > tr > th,
+.light-table--aqua.table > tfoot > tr > th,
+.light-table--aqua.table > thead > tr > td,
+.light-table--aqua.table > tbody > tr > td,
+.light-table--aqua.table > tfoot > tr > td {
+  border-top: 1px solid #8dc5ba;
+}
+.light-table--aqua.table > thead > tr > th {
+  border-bottom: 2px solid #8dc5ba;
+}
+.light-table--aqua.table > tbody + tbody {
+  border-top: 2px solid #8dc5ba;
+}
+.light-table--aqua.table .table {
+  background-color: #c0dfd9;
+}
+.light-table--aqua.table-bordered {
+  border: 1px solid #8dc5ba;
+}
+.light-table--aqua.table-bordered > thead > tr > th,
+.light-table--aqua.table-bordered > tbody > tr > th,
+.light-table--aqua.table-bordered > tfoot > tr > th,
+.light-table--aqua.table-bordered > thead > tr > td,
+.light-table--aqua.table-bordered > tbody > tr > td,
+.light-table--aqua.table-bordered > tfoot > tr > td {
+  border: 1px solid #8dc5ba;
+}
+.light-table--aqua.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #e2f0ed;
+}
+.light-table--aqua.table-hover > tbody > tr:hover {
+  background-color: #7cbdb0;
+}
+.light-table--lime.table {
+  background-color: #cdd992;
+}
+.light-table--lime.table > thead > tr > th,
+.light-table--lime.table > tbody > tr > th,
+.light-table--lime.table > tfoot > tr > th,
+.light-table--lime.table > thead > tr > td,
+.light-table--lime.table > tbody > tr > td,
+.light-table--lime.table > tfoot > tr > td {
+  border-top: 1px solid #b3c559;
+}
+.light-table--lime.table > thead > tr > th {
+  border-bottom: 2px solid #b3c559;
+}
+.light-table--lime.table > tbody + tbody {
+  border-top: 2px solid #b3c559;
+}
+.light-table--lime.table .table {
+  background-color: #cdd992;
+}
+.light-table--lime.table-bordered {
+  border: 1px solid #b3c559;
+}
+.light-table--lime.table-bordered > thead > tr > th,
+.light-table--lime.table-bordered > tbody > tr > th,
+.light-table--lime.table-bordered > tfoot > tr > th,
+.light-table--lime.table-bordered > thead > tr > td,
+.light-table--lime.table-bordered > tbody > tr > td,
+.light-table--lime.table-bordered > tfoot > tr > td {
+  border: 1px solid #b3c559;
+}
+.light-table--lime.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #dee6b8;
+}
+.light-table--lime.table-hover > tbody > tr:hover {
+  background-color: #aabf46;
+}
+.light-table--cream.table {
+  background-color: #edd9c0;
+}
+.light-table--cream.table > thead > tr > th,
+.light-table--cream.table > tbody > tr > th,
+.light-table--cream.table > tfoot > tr > th,
+.light-table--cream.table > thead > tr > td,
+.light-table--cream.table > tbody > tr > td,
+.light-table--cream.table > tfoot > tr > td {
+  border-top: 1px solid #dcb585;
+}
+.light-table--cream.table > thead > tr > th {
+  border-bottom: 2px solid #dcb585;
+}
+.light-table--cream.table > tbody + tbody {
+  border-top: 2px solid #dcb585;
+}
+.light-table--cream.table .table {
+  background-color: #edd9c0;
+}
+.light-table--cream.table-bordered {
+  border: 1px solid #dcb585;
+}
+.light-table--cream.table-bordered > thead > tr > th,
+.light-table--cream.table-bordered > tbody > tr > th,
+.light-table--cream.table-bordered > tfoot > tr > th,
+.light-table--cream.table-bordered > thead > tr > td,
+.light-table--cream.table-bordered > tbody > tr > td,
+.light-table--cream.table-bordered > tfoot > tr > td {
+  border: 1px solid #dcb585;
+}
+.light-table--cream.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #f8f1e8;
+}
+.light-table--cream.table-hover > tbody > tr:hover {
+  background-color: #d6a971;
+}
+.light-table--sky.table {
+  background-color: #89bdd3;
+}
+.light-table--sky.table > thead > tr > th,
+.light-table--sky.table > tbody > tr > th,
+.light-table--sky.table > tfoot > tr > th,
+.light-table--sky.table > thead > tr > td,
+.light-table--sky.table > tbody > tr > td,
+.light-table--sky.table > tfoot > tr > td {
+  border-top: 1px solid #519ebe;
+}
+.light-table--sky.table > thead > tr > th {
+  border-bottom: 2px solid #519ebe;
+}
+.light-table--sky.table > tbody + tbody {
+  border-top: 2px solid #519ebe;
+}
+.light-table--sky.table .table {
+  background-color: #89bdd3;
+}
+.light-table--sky.table-bordered {
+  border: 1px solid #519ebe;
+}
+.light-table--sky.table-bordered > thead > tr > th,
+.light-table--sky.table-bordered > tbody > tr > th,
+.light-table--sky.table-bordered > tfoot > tr > th,
+.light-table--sky.table-bordered > thead > tr > td,
+.light-table--sky.table-bordered > tbody > tr > td,
+.light-table--sky.table-bordered > tfoot > tr > td {
+  border: 1px solid #519ebe;
+}
+.light-table--sky.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #aed2e1;
+}
+.light-table--sky.table-hover > tbody > tr:hover {
+  background-color: #4392b3;
+}
+.light-table--sun.table {
+  background-color: #f2b632;
+}
+.light-table--sun.table > thead > tr > th,
+.light-table--sun.table > tbody > tr > th,
+.light-table--sun.table > tfoot > tr > th,
+.light-table--sun.table > thead > tr > td,
+.light-table--sun.table > tbody > tr > td,
+.light-table--sun.table > tfoot > tr > td {
+  border-top: 1px solid #cb8f0d;
+}
+.light-table--sun.table > thead > tr > th {
+  border-bottom: 2px solid #cb8f0d;
+}
+.light-table--sun.table > tbody + tbody {
+  border-top: 2px solid #cb8f0d;
+}
+.light-table--sun.table .table {
+  background-color: #f2b632;
+}
+.light-table--sun.table-bordered {
+  border: 1px solid #cb8f0d;
+}
+.light-table--sun.table-bordered > thead > tr > th,
+.light-table--sun.table-bordered > tbody > tr > th,
+.light-table--sun.table-bordered > tfoot > tr > th,
+.light-table--sun.table-bordered > thead > tr > td,
+.light-table--sun.table-bordered > tbody > tr > td,
+.light-table--sun.table-bordered > tfoot > tr > td {
+  border: 1px solid #cb8f0d;
+}
+.light-table--sun.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #f5c762;
+}
+.light-table--sun.table-hover > tbody > tr:hover {
+  background-color: #b37e0b;
+}
+.light-table--tosca.table {
+  background-color: #6ed3cf;
+}
+.light-table--tosca.table > thead > tr > th,
+.light-table--tosca.table > tbody > tr > th,
+.light-table--tosca.table > tfoot > tr > th,
+.light-table--tosca.table > thead > tr > td,
+.light-table--tosca.table > tbody > tr > td,
+.light-table--tosca.table > tfoot > tr > td {
+  border-top: 1px solid #39bcb6;
+}
+.light-table--tosca.table > thead > tr > th {
+  border-bottom: 2px solid #39bcb6;
+}
+.light-table--tosca.table > tbody + tbody {
+  border-top: 2px solid #39bcb6;
+}
+.light-table--tosca.table .table {
+  background-color: #6ed3cf;
+}
+.light-table--tosca.table-bordered {
+  border: 1px solid #39bcb6;
+}
+.light-table--tosca.table-bordered > thead > tr > th,
+.light-table--tosca.table-bordered > tbody > tr > th,
+.light-table--tosca.table-bordered > tfoot > tr > th,
+.light-table--tosca.table-bordered > thead > tr > td,
+.light-table--tosca.table-bordered > tbody > tr > td,
+.light-table--tosca.table-bordered > tfoot > tr > td {
+  border: 1px solid #39bcb6;
+}
+.light-table--tosca.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #95dfdc;
+}
+.light-table--tosca.table-hover > tbody > tr:hover {
+  background-color: #33a8a3;
+}
+.light-table--purple.table {
+  background-color: #b0aac2;
+}
+.light-table--purple.table > thead > tr > th,
+.light-table--purple.table > tbody > tr > th,
+.light-table--purple.table > tfoot > tr > th,
+.light-table--purple.table > thead > tr > td,
+.light-table--purple.table > tbody > tr > td,
+.light-table--purple.table > tfoot > tr > td {
+  border-top: 1px solid #877da2;
+}
+.light-table--purple.table > thead > tr > th {
+  border-bottom: 2px solid #877da2;
+}
+.light-table--purple.table > tbody + tbody {
+  border-top: 2px solid #877da2;
+}
+.light-table--purple.table .table {
+  background-color: #b0aac2;
+}
+.light-table--purple.table-bordered {
+  border: 1px solid #877da2;
+}
+.light-table--purple.table-bordered > thead > tr > th,
+.light-table--purple.table-bordered > tbody > tr > th,
+.light-table--purple.table-bordered > tfoot > tr > th,
+.light-table--purple.table-bordered > thead > tr > td,
+.light-table--purple.table-bordered > tbody > tr > td,
+.light-table--purple.table-bordered > tfoot > tr > td {
+  border: 1px solid #877da2;
+}
+.light-table--purple.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #ccc8d7;
+}
+.light-table--purple.table-hover > tbody > tr:hover {
+  background-color: #796f97;
+}
+.light-table--pink.table {
+  background-color: #fdc0d9;
+}
+.light-table--pink.table > thead > tr > th,
+.light-table--pink.table > tbody > tr > th,
+.light-table--pink.table > tfoot > tr > th,
+.light-table--pink.table > thead > tr > td,
+.light-table--pink.table > tbody > tr > td,
+.light-table--pink.table > tfoot > tr > td {
+  border-top: 1px solid #fb76ac;
+}
+.light-table--pink.table > thead > tr > th {
+  border-bottom: 2px solid #fb76ac;
+}
+.light-table--pink.table > tbody + tbody {
+  border-top: 2px solid #fb76ac;
+}
+.light-table--pink.table .table {
+  background-color: #fdc0d9;
+}
+.light-table--pink.table-bordered {
+  border: 1px solid #fb76ac;
+}
+.light-table--pink.table-bordered > thead > tr > th,
+.light-table--pink.table-bordered > tbody > tr > th,
+.light-table--pink.table-bordered > tfoot > tr > th,
+.light-table--pink.table-bordered > thead > tr > td,
+.light-table--pink.table-bordered > tbody > tr > td,
+.light-table--pink.table-bordered > tfoot > tr > td {
+  border: 1px solid #fb76ac;
+}
+.light-table--pink.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #fff1f7;
+}
+.light-table--pink.table-hover > tbody > tr:hover {
+  background-color: #fa5d9d;
+}

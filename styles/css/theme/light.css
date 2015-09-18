@@ -1,4 +1,5 @@
 @import url('../base/navbar.css');
+@import url('partial/table.css');
 
 body {
 /*    background-color:#fff;*/
